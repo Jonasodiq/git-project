@@ -1,0 +1,4 @@
+Text fil
+15 okt 2024 Övning 2: Redigera och Commit
+
+Git clona 
